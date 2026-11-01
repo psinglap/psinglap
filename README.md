@@ -4,7 +4,7 @@
 <a href="https://github.com/psinglap?tab=repositories"><img src="https://img.shields.io/badge/Projects-4b5bdc?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 <a href="https://www.npmjs.com/~psinglap"><img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 <a href="https://huggingface.co/psinglap"><img src="https://img.shields.io/badge/Hugging%20Face-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-<!-- TODO: add LinkedIn badge: <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+<a href="https://www.linkedin.com/in/p-singla/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ## 👋 About me
@@ -14,6 +14,29 @@ I'm Pallavi. I work where AI products meet the people who adopt them. I test the
 | 🔬 **Evaluate** | 🛠️ **Build** | 🚀 **Launch** |
 |---|---|---|
 | Live benchmarks with real answer keys, graded with published rubrics | MCP servers, Chrome extensions, datasets and prototypes | GTM memos, target-account maps, positioning and distribution |
+
+## ✨ Building now: Magic
+
+<a href="https://magic-demo-sepia.vercel.app"><img src="https://raw.githubusercontent.com/psinglap/magic-site/main/media/og.png" alt="Magic: the personal context layer" width="100%"></a>
+
+**Magic is the personal context layer: a private AI that shows people who they're becoming and how to grow.**
+
+We live in dozens of apps, multitask all day, and now AI does whole tasks for us, so few of us can say where our time went, what we learned, or what to do next. Magic privately records what you do on your laptop and on-device AI turns it into a living picture of you: skills from first read to applied, personality from behaviour, blind spots, and one next step per area. Nothing leaves your laptop.
+
+| 20,429 | 988 | 27 | 0 bytes | 26 days |
+|:---:|:---:|:---:|:---:|:---:|
+| moments recorded | ideas mapped | topics | sent to the cloud | first commit to live |
+
+<p>
+<a href="https://magic-demo-sepia.vercel.app"><img src="https://img.shields.io/badge/Website-watch%20the%20demo-4b5bdc?style=for-the-badge" alt="Website"></a>
+<a href="https://magic-demo-sepia.vercel.app/demo/"><img src="https://img.shields.io/badge/Live%20demo-no%20sign--up-16a34a?style=for-the-badge" alt="Live demo"></a>
+<a href="https://github.com/psinglap/magic-site"><img src="https://img.shields.io/badge/GitHub-magic--site-111827?style=for-the-badge&logo=github&logoColor=white" alt="magic-site repo"></a>
+<a href="https://github.com/psinglap/magic"><img src="https://img.shields.io/badge/Core%20app-private%20repo-6b7280?style=for-the-badge&logo=github&logoColor=white" alt="Magic core app (private repo)"></a>
+</p>
+
+<sub>The core app (Rust recorder, on-device AI pipeline, knowledge graph) is in a private repo. Access on request: <a href="mailto:pallavi.singla@berkeley.edu">pallavi.singla@berkeley.edu</a>.</sub>
+
+---
 
 ## 🗂️ Projects at a glance
 
